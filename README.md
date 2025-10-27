@@ -96,3 +96,4 @@ MIT License
 >>>>>>> conflict-simulator
 ## FAQ
 update
+update
